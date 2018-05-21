@@ -1,2 +1,2 @@
-# Mall-Manager-Assistant
-Its a java-hibernate project.
+# Mall Manager Assistant
+It is Web Application project made in Java-Hibernate
