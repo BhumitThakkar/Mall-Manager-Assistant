@@ -13,8 +13,8 @@ import javax.mail.internet.MimeMessage;
 public class SendMail {
 
 	public static void main(String s,int otp,String[] args) {
-		final String fromEmail = "bhumit13@gecg28.ac.in";
-		final String password = "bhumit123";
+		final String fromEmail = "";
+		final String password = "";
 		Properties props = new Properties();
 		
 		props.put("mail.smtp.auth", "true"); //enable authentication
